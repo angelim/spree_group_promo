@@ -1,0 +1,11 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  hello: "Hello world"
+  group_label: Group
+  promotion_rule_types:
+    product_buy_group_total:
+      name: Item total from group
+      description: Order total from specific group exceeds amount
+  flat_percent_group: Flat percent of group total

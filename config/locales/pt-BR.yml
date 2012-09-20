@@ -1,0 +1,11 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+pt-BR:
+  flat_percent: Porcentagem fixa
+  group_label: Grupo
+  promotion_rule_types:
+    product_buy_group_total:
+      name: Total em itens do group
+      description: Total da ordem em produtos excedendo o valor apontado
+  flat_percent_group: Porcentagem fixa do total do grupo
